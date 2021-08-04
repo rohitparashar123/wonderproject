@@ -1,0 +1,208 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar {
+  background-color: #f0f0f0;
+}
+
+.navbar .navbar-nav li .nav-link {
+  color: #030e3f;
+  font-weight: bold;
+}
+
+.footer {
+  padding: 40px;
+  background-color: #f0f0f0;
+}
+
+.footer .footerpage {
+  border-right: 1px solid;
+}
+
+.footer .footerpage li {
+  list-style: none;
+}
+
+.footer .footerpage li a {
+  color: #182222;
+}
+
+.footer .icons li {
+  list-style: none;
+  display: inline;
+  margin: 5px;
+}
+
+.footer .icons li a {
+  color: #ffff;
+  background-color: #030e3f;
+  border-radius: 100%;
+  padding: 5px 6px 6px 10px;
+}
+
+.footer p {
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', Arial, Helvetica, Verdana, Arial, sans-serif;
+}
+
+.editorial {
+  margin-top: 40px;
+  padding: 40px;
+}
+
+.editorial .editorialCont h1 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.editorial .editorialCont p {
+  font-size: 17px;
+}
+
+.editorial .editorialCont input {
+  border-radius: 50px;
+}
+
+.mainTemp .maintep2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.mainTemp .maintep2 a {
+  text-decoration: none;
+}
+
+.mainTemp .maintep2 .templet, .mainTemp .maintep2 .document, .mainTemp .maintep2 .print {
+  background-color: #030e3f;
+  color: #ffff;
+  text-align: center;
+  padding: 22px;
+  margin: 3px;
+  width: 300px;
+}
+
+.mainTemp .maintep2 .templet img, .mainTemp .maintep2 .document img, .mainTemp .maintep2 .print img {
+  width: 60px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.mainTemp .maintep2 .templet h2, .mainTemp .maintep2 .document h2, .mainTemp .maintep2 .print h2 {
+  color: #ffff;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.mainTemp .maintep2 .templet p, .mainTemp .maintep2 .document p, .mainTemp .maintep2 .print p {
+  color: #ffff;
+}
+
+.help {
+  margin-top: 50px;
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 20px;
+}
+
+.help h2 {
+  color: #030e3f;
+  font-size: 22px;
+}
+
+.help .help2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.help .help2 .p65, .help .help2 .p24 {
+  text-align: center;
+  background-color: #ffff;
+  margin: 3px;
+  width: 250px;
+  padding: 20px;
+}
+
+.help .help2 .p65 h2, .help .help2 .p24 h2 {
+  color: #030e3f;
+}
+
+.lists {
+  margin-top: 50px;
+}
+
+.lists h2 {
+  color: #030e3f;
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.lists .business h3, .lists .personal h3 {
+  font-size: 20px;
+  color: #030e3f;
+}
+
+.lists .business li, .lists .personal li {
+  margin: 10px;
+}
+
+.lists .business li a, .lists .personal li a {
+  color: #737c87;
+  text-decoration: none;
+}
+
+.registration h2 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 25px;
+  color: #101066cf;
+}
+
+.registration .registration3 {
+  border: 1px solid #e7e7e7;
+  padding: 20px 30px 0px 30px;
+  border-radius: 5px;
+}
+
+.registration .registration3 p {
+  color: #8c8e91;
+}
+
+.registration .registration3 h3 {
+  font-size: 22px;
+}
+
+.registration .registration3 label {
+  color: #000;
+  font-weight: 500;
+}
+
+.registration .registration3 .submitBtn {
+  text-align: center;
+}
+
+.registration .registration3 .submitBtn .btn {
+  cursor: pointer;
+  background-color: #101066cf;
+  color: #fff;
+  padding: 5px 20px;
+  border-radius: 25px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=style.css.map */

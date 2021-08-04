@@ -1,0 +1,94 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
+.documents {
+  margin-top: 40px;
+}
+
+.documents h2 {
+  color: #030e3f;
+  text-align: center;
+  font-size: 25px;
+}
+
+.documents p {
+  text-align: left;
+}
+
+.documents .panel-titles > a:before {
+  float: left !important;
+  font-family: FontAwesome;
+  content: "\f067";
+  background-color: gray;
+  color: #fff;
+  font-size: 10px;
+  margin-top: 10px;
+  margin-left: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.documents .panel-titles > a.collapsed:before {
+  float: left !important;
+  content: "\f068";
+}
+
+.documents .panel-titles > a:hover,
+.documents .panel-titles > a:active,
+.documents .panel-titles > a:focus {
+  text-decoration: none;
+}
+
+.documents .panel-title > a:before {
+  float: left !important;
+  font-family: FontAwesome;
+  content: "\f067";
+  background-color: gray;
+  color: #fff;
+  font-size: 10px;
+  margin-top: 5px;
+  margin-left: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.documents .panel-title > a.collapsed:before {
+  float: left !important;
+  content: "\f068";
+}
+
+.documents .panel-title > a:hover,
+.documents .panel-title > a:active,
+.documents .panel-title > a:focus {
+  text-decoration: none;
+}
+
+.documents .backColor {
+  background-color: #f0f0f0;
+}
+
+.documents .card {
+  border-left: 1px solid gray;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+  border-left-style: dashed;
+  margin: 10px;
+  background-color: transparent;
+}
+
+.documents .card .btn {
+  text-align: left;
+  white-space: inherit;
+}
+
+.documents .card li {
+  list-style: none;
+}
+
+.documents .card #headingOne a, .documents .card #headingTwo a {
+  font-size: 30px;
+}
+
+.documents .card #heading3 a, .documents .card #heading4 a, .documents .card #headingr a, .documents .card #heading5 a, .documents .card #heading6 a, .documents .card #heading7 a, .documents .card #heading8 a, .documents .card #headingA a, .documents .card #headingB a, .documents .card #headingC a, .documents .card #headingD a, .documents .card #headingE a, .documents .card #headingF a, .documents .card #headingG a, .documents .card #headingH a {
+  font-size: 20px;
+}
+/*# sourceMappingURL=documents.css.map */

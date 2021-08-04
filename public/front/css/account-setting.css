@@ -1,0 +1,61 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.changePassword #v-pills-tab {
+  margin-top: 85px;
+}
+
+.changePassword .nav-pills .nav-link {
+  margin: 5px;
+  border-radius: .25rem;
+  background-color: #f0f0f0;
+  padding: 13px;
+}
+
+.changePassword h2 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 25px;
+  color: #101066cf;
+}
+
+.changePassword .btn1 {
+  float: right;
+}
+
+.changePassword .btn1 .btn {
+  cursor: pointer;
+  background-color: #101066cf;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.changePassword .password {
+  border: 1px solid #e7e7e7;
+  padding: 20px 30px;
+  border-radius: 5px;
+}
+
+.changePassword .password h3 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.changePassword .password .btn {
+  cursor: pointer;
+  background-color: #101066cf;
+  color: #fff;
+  padding: 5px 20px;
+  border-radius: 25px;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=account-setting.css.map */

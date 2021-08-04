@@ -1,0 +1,59 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.faq {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.faq h1 {
+  color: #030e3f;
+  font-size: 25px;
+  text-align: center;
+}
+
+.faq .inner-padding {
+  background-color: #f0f0f0;
+  padding: 30px;
+  -webkit-box-shadow: 0px 1px 6px 1px #746c6c;
+          box-shadow: 0px 1px 6px 1px #746c6c;
+}
+
+.faq .inner-padding h2 {
+  font-size: 20px;
+  line-height: 1.3em;
+  margin: 0.9em 0;
+  font-weight: 500S;
+}
+
+.faq .inner-padding p {
+  line-height: 1.5em;
+  margin: 0.5em 0;
+}
+
+.faq .inner-padding b {
+  color: #030e3f;
+}
+
+.faq .inner-padding a {
+  color: #000;
+  text-decoration: none;
+  border-bottom: #000 1px solid;
+  transition: all .1s;
+  -moz-transition: all .1s;
+  -webkit-transition: all .1s;
+  -ms-transition: all .1s;
+  -o-transition: all .1s;
+  cursor: pointer;
+}
+
+.faq .inner-padding a:hover {
+  color: #000000;
+  border-bottom: #000000 1px solid;
+  padding-bottom: 0.2em;
+}
+/*# sourceMappingURL=faq.css.map */

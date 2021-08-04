@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,GAAG;EACX,OAAO,EAAE,GAAG;EACZ,UAAU,EAAE,UAAU;CACzB;;AACD,AAAA,cAAc,CAAA;EACd,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,KAAK;EACZ,UAAU,EAAE,MAAM;CAUzB;;AAbD,AAIQ,cAJM,CAIN,EAAE,CAAA;EACE,KAAK,ECXV,OAAO;EDYF,SAAS,EAAE,IAAI;EACf,aAAa,EAAE,IAAI;CACtB;;AART,AASQ,cATM,CASN,IAAI,CAAA;EACA,WAAW,EAAE,IAAI;CACpB",
+    "sources": [
+        "delete-account.scss",
+        "_variables.scss"
+    ],
+    "names": [],
+    "file": "delete-account.css"
+}

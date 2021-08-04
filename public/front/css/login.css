@@ -1,0 +1,34 @@
+.login .box {
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  padding: 17px 10px;
+}
+
+.login label {
+  font-weight: 500;
+}
+
+.login label span {
+  font-weight: 300;
+}
+
+.login .form-check-input {
+  font-weight: 200 !important;
+}
+
+.login .submit {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.login .submit button {
+  border-radius: 30px;
+}
+
+.login form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+/*# sourceMappingURL=login.css.map */

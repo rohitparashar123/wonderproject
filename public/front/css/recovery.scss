@@ -1,0 +1,34 @@
+@import "variables";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.recovery{
+    margin-top: 44px;
+    margin-bottom: 44px;
+   .btn1{
+       margin-top: 20px;
+       text-align: center;
+    .btn{
+        text-align: center;
+        background-color: $color;
+        color: #ffff;
+    }
+   
+   }
+    h2{
+        color: $color;
+        font-size: 22px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .card{
+        padding: 20px;
+    }
+    .capbox{
+        display: flex;
+        justify-content: space-between;
+    }
+}

@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.deleteAccount {
+  margin-top: 40px;
+  margin-bottom: 115px;
+  text-align: center;
+}
+
+.deleteAccount h2 {
+  color: #030e3f;
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+
+.deleteAccount .btn {
+  font-weight: bold;
+}
+/*# sourceMappingURL=delete-account.css.map */

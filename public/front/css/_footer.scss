@@ -1,0 +1,33 @@
+@import "variables";
+
+.footer{
+    padding: 40px;
+    background-color:$background ;
+    .footerpage{
+        border-right: 1px solid;
+        li{
+            list-style: none;
+            a{
+             color: #182222;
+            }
+        }
+    }
+    .icons{
+        li{
+            list-style: none;
+            display: inline;
+            margin: 5px;
+           
+            
+            a{
+                color: #ffff;
+                background-color: $color;
+                border-radius: 100%;
+                padding: 5px 6px 6px 10px;
+            }
+        }
+    }
+    p{
+        text-align: center;
+    }
+}

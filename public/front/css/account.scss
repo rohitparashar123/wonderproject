@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.changePassword{
+    h2{
+        margin-top: 30px;
+        margin-bottom: 30px;
+     text-align: center;
+     font-size: 25px;
+     color: #101066cf;
+    }
+  .btn1{
+    float: right;
+    .btn{
+        cursor: pointer;
+background-color: #101066cf;
+color: #fff;
+padding: 10px 20px;
+border-radius: 5px;
+font-weight: bold;
+margin-bottom: 10px;
+
+    }
+  }
+    .password{
+        border: 1px solid #e7e7e7;
+        padding: 20px 30px;
+    
+        border-radius: 5px;
+        h3{
+            font-size: 25px;
+            font-weight: bold;
+        }
+        .btn{
+            cursor: pointer;
+    background-color: #101066cf;
+    color: #fff;
+    padding: 5px 20px;
+    border-radius: 25px;
+    font-weight: 300;
+    margin-bottom: 10px;
+   
+        }
+    }
+}
